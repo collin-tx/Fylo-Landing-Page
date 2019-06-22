@@ -1,0 +1,23 @@
+.background {
+    width: 100vw;
+    height: 500px;
+}
+
+.logo {
+    position: relative;
+    top: -490px;
+    left: 5px;
+}
+
+.man {
+    position: relative;
+    top: -470px;
+    left: 25%;
+    height: 250px;
+    width: 250px;
+}
+
+div {
+    position: relative;
+    top: -280px;
+}
