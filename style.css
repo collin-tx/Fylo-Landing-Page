@@ -20,9 +20,9 @@
 div {
     position: relative;
     top: -280px;
-    left: 20px;
+    left: 60px;
     text-align: left;
-    max-width: 50%
+    max-width: 70%
 }
 
 h1,
@@ -32,20 +32,31 @@ h2 {
 }
 
 h2 {
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 
 p {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     color: darkgrey;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
+}
+
+input {
+    display: block;
+    padding: 10px 50px 10px 5px;
+    font-size: 20px;
+    margin-bottom: 40px;
 }
 
 .sign-up {
     color: white;
     background: hsl(163, 95%, 43%);
-    padding: 10px 40px;
+    padding: 10px 70px;
     border-radius: 5px 5px;
-    ;
+    font-size: 20px;
+}
+
+a {
+    text-align: right;
 }
