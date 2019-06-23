@@ -64,9 +64,21 @@ a {
 }
 
 @media (min-width: 600px) {
+    body {
+        display: flex;
+        margin: 0;
+    }
     .background {
-        float: left;
+        width: 50vw;
+        height: 100vw;
+        margin: 0;
+    }
+    .logo {
         position: relative;
-        z-index: -1;
+        top: -1000px;
+    }
+    .man {
+        position: relative;
+        top: -650px;
     }
 }
