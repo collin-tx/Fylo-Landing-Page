@@ -75,10 +75,13 @@ a {
     }
     .logo {
         position: relative;
-        top: -1000px;
+        top: -1100px;
     }
     .man {
         position: relative;
         top: -650px;
+        height: 350px;
+        width: 350px;
+        left: 60px;
     }
 }
