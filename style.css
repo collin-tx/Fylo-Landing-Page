@@ -62,3 +62,11 @@ a {
     left: 350px;
     top: -180px;
 }
+
+@media (min-width: 600px) {
+    .background {
+        float: left;
+        position: relative;
+        z-index: -1;
+    }
+}
