@@ -67,21 +67,35 @@ a {
     body {
         display: flex;
         margin: 0;
+        align-content: center;
     }
     .background {
         width: 50vw;
-        height: 100vw;
-        margin: 0;
+        height: 700px;
+        margin-left: -60px;
+        position: relative;
+        top: 250px;
     }
     .logo {
         position: relative;
-        top: -1100px;
+        top: -750px;
     }
     .man {
         position: relative;
-        top: -650px;
+        top: -330px;
         height: 350px;
         width: 350px;
-        left: 60px;
+        left: 30px;
+    }
+    h1,
+    h2,
+    p {
+        position: static;
+        top: 300px;
+    }
+    .info {
+        position: relative;
+        top: 100px;
+        padding-left: 50px;
     }
 }
