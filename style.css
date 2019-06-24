@@ -1,17 +1,20 @@
 .background {
+    position: relative;
+    top: 260px;
+    left: -70px;
     width: 100vw;
     height: 500px;
 }
 
 .logo {
     position: relative;
-    top: -490px;
-    left: 5px;
+    top: -460px;
+    left: -40px;
 }
 
 .man {
     position: relative;
-    top: -470px;
+    top: -160px;
     left: 25%;
     height: 250px;
     width: 250px;
