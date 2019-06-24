@@ -71,18 +71,18 @@ a {
     }
     .background {
         width: 50vw;
-        height: 700px;
+        height: 800px;
         margin-left: -60px;
         position: relative;
         top: 250px;
     }
     .logo {
         position: relative;
-        top: -750px;
+        top: -850px;
     }
     .man {
         position: relative;
-        top: -330px;
+        top: -430px;
         height: 350px;
         width: 350px;
         left: 30px;
@@ -97,5 +97,10 @@ a {
         position: relative;
         top: 100px;
         padding-left: 50px;
+    }
+    footer {
+        position: relative;
+        left: -760px;
+        top: 750px;
     }
 }
